@@ -1,0 +1,52 @@
+@media (max-width: 835px) {
+    .container {
+        max-width: 835px;
+        width: 100%;
+        margin: auto;
+    }
+
+    /* header */
+
+    header {
+        padding: 6px 67px 6px 67px;
+    }
+
+    /* section1 */
+
+    .section1 {
+        width: 100%;
+        padding: 115px 67px;
+        margin: auto;
+    }
+
+    /* section2 */
+
+    .section2 {
+        width: 700px;
+        height: 389px;
+        margin: auto;
+        margin-top: 80px;
+        margin-bottom: 80px;
+    }
+
+    .section2_card {
+        width: 338px;
+    }
+
+    /* section3 */
+
+    .section3 {
+        width: 700px;
+        height: 609px;
+        margin: auto;
+        margin-bottom: 80px;
+    }
+
+    .sec3_img1 {
+        width: 700px;
+    }
+
+    .sec_nt_1 {
+        width: 340px;
+    }
+}

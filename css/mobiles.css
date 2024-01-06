@@ -1,0 +1,93 @@
+@media (max-width: 375px) {
+    .container {
+        max-width: 375px;
+        width: 100%;
+        margin: auto;
+    }
+
+    /* header */
+
+    header {
+        padding: 6px 14px 6px 14px;
+    }
+
+    ul {
+        display: none;
+    }
+
+    .burger_menu {
+        display: block;
+    }
+
+    /* section1 */
+
+    .section1 {
+        width: 100%;
+        padding: 119px 14px;
+        margin: auto;
+    }
+
+    .section1_title {
+        font-size: 32px;
+    }
+
+    .section1_txt {
+        font-size: 14px;
+        line-height: 22px;
+    }
+
+    /* section2 */
+
+    .section2_title {
+        text-align: center;
+    }
+
+    .section2 {
+        width: 347px;
+        height: 700px;
+        margin: auto;
+        margin-top: 48px;
+        margin-bottom: 48px;
+    }
+
+    .section2_cards {
+        display: block;
+        padding-left: 1px;
+        padding-right: 1px;
+    }
+
+    .section2_card {
+        margin-bottom: 21px;
+    }
+
+    /* section3 */
+
+    .section3_title {
+        text-align: center;
+    }
+
+    .section3 {
+        width: 375px;
+        height: 800px;
+        margin: auto;
+        margin-bottom: 48px;
+    }
+
+    .section3_images {
+        flex-direction: column;
+    }
+
+    .section3_img2 {
+        flex-direction: column;
+    }
+
+    .sec3_img1 {
+        width: 375px;
+        height: 320px;
+    }
+
+    .sec_nt_1 {
+        width: 375px;
+        height: 190px;
+    }
+}
